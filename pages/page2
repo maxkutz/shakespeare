@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="stylesheet" href="../style.css">
+  </head>
+
+  <body>
+    <nav>
+      <a href="../index.html">Home</a>
+      <a href="pages/page1.html">Early Life</a>
+      <a href="pages/page2.html">His Influence</a>
+      <a href="pages/page3.html">Others</a>
+    </nav>
+    <h1>His Influence</h1>
+    <p>It could be said that perhaps no other individual had more influence on the formation of the english language as we know it today than William Shakespeare. His influence is near endless and can be seen everywhere. He created both some of the most relevant stories and the most relevant plays in history in his career. Before his time, there was little standardization with spelling and common grammar, but through his vast amounts of writings, order became established for a common grammar. He also created upwords of 1700 words, according to Shakespeare-Online.com. Words used in many sophisticated writings (such as words like addiction and arch-enemy) can be attributed to Shakespeare's work. In addition, he also created slang terms still used today.("Swagger" was first used in Shakespeare's <i>A Midsummer Night’s Dream</i>".)</p>
+  </body>
+
+</html>
